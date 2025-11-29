@@ -5,3 +5,4 @@ The old design of BlueSails was inefficient and could use some visual touchups. 
 
 Images of Version 1
 
+<img src="./v1 images/Screenshot 2025-11-28 at 6.54.11 PM.png">
